@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<div id="header" align="center">
+	<h1>Екатерина Рябцева</h1>
+	<h3>Frontend-разработчик</h3>
+</div>
 <!--
 **Ryabtseva-Ekaterina/Ryabtseva-Ekaterina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
