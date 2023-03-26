@@ -1,7 +1,10 @@
 <div id="header" align="center">
-	<h1>Привет, Екатерина :)</h1>
-	<h3>Frontend-разработчик</h3>
+	<h1>Приветствую на моей странице 👋 :)</h1>
 </div>
+
+Меня зовут Екатерина, я занимаюсь Frontend-разработкой.
+
+
 	
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryabtseva-Ekaterina&theme=outrun) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryabtseva-Ekaterina&theme=outrun) 
