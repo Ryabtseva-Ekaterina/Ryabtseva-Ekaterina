@@ -6,8 +6,8 @@
 
 Написать мне: 
 
-<a href="https://t.me/@E_I_Ryabtseva">
-	<img src="[https://icons8.ru/icon/EWzVSK2hyV9H/телеграмма-app](https://www.flaticon.com/ru/free-icon/telegram_2111646?term=%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0&page=1&position=1&origin=tag&related_id=2111646)" alt="telegram">
+<a href="https://t.me/E_I_Ryabtseva">
+	<img src="(https://www.flaticon.com/ru/free-icon/telegram_2111646?term=%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0&page=1&position=1&origin=tag&related_id=2111646)" alt="telegram">
 </a>
 
 
