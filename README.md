@@ -1,4 +1,4 @@
-<div background-color="rgba(0,0,0,.87)">
+<div color="rgba(0,0,0,.87)">
 	<div id="header" align="center">
 		<h1>Екатерина Рябцева</h1>
 		<h3>Frontend-разработчик</h3>
