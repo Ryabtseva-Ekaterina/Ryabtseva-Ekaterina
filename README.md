@@ -1,6 +1,6 @@
-<div color="rgba(0,0,0,.87)">
+<div background="rgba(0,0,0,.87)">
 	<div id="header" align="center">
-		<h1>Екатерина Рябцева</h1>
+		<h1>Привет, Екатерина :)</h1>
 		<h3>Frontend-разработчик</h3>
 	</div>
 </div>
