@@ -7,7 +7,7 @@
 Написать мне: 
 
 <a href="https://t.me/E_I_Ryabtseva">
-	<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" alt="telegram">
+	<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" alt="telegram" width="30px" height="30px">
 </a>
 
 
