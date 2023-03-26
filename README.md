@@ -20,12 +20,12 @@
 
 👩‍💻 На фрилансе с 2021г (начинала с верстки на конструкторе Tilda, в 2022г. обучилась на Frontend-разработчика)
 
-<a href="https://hh.ru/resume/4ab29fa6ff0bd185b00039ed1f587735434a72" target="_blank">
-	📄  Резюме
+📄 [Резюме](https://hh.ru/resume/4ab29fa6ff0bd185b00039ed1f587735434a72)
 	
-</a>
+
 
 **Написать мне:** 
+
 
 <a href="https://t.me/E_I_Ryabtseva" target="_blank">
 	<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" alt="telegram" width="30px" height="30px">
@@ -55,22 +55,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-// ==UserScript==
-// @name         Github links: Open in new tab
-// @namespace    io.kuc.ben
-// @version      1.1
-// @description  Open all links from github in new tab.
-// @author       bkucera,powersee
-// @match        https://github.com/*
-// ==/UserScript==
-
-(function() {
-    'use strict';
-    document.addEventListener('click', (e)=>{
-        const aEl = e.path.find(el => el.tagName === 'A')
-        if (aEl) {
-            aEl.target = '_blank'
-        }
-    })
-})();
