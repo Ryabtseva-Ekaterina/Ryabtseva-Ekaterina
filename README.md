@@ -5,10 +5,9 @@
 Меня зовут Екатерина, я занимаюсь Frontend-разработкой.
 
 Написать мне: 
-![Telegram]([https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://t.me/E_I_Ryabtseva))
 
 <a href="https://t.me/E_I_Ryabtseva">
-	<img src="#26A5E4" alt="telegram">
+	<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" alt="telegram">
 </a>
 
 
