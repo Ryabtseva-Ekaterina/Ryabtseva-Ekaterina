@@ -20,19 +20,20 @@
 
 👩‍💻 На фрилансе с 2021г (начинала с верстки на конструкторе Tilda, в 2022г. обучилась на Frontend-разработчика)
 
-<a href="https://hh.ru/resume/4ab29fa6ff0bd185b00039ed1f587735434a72" target="blank">
+<a href="https://hh.ru/resume/4ab29fa6ff0bd185b00039ed1f587735434a72" target="_blank">
 	📄  Резюме
+	
 </a>
 
 
 
 Написать мне: 
 
-<a href="https://t.me/E_I_Ryabtseva" target="blank">
+<a href="https://t.me/E_I_Ryabtseva" target="_blank">
 	<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168692.png" alt="telegram" width="30px" height="30px">
 </a>
 
-<a href="mailto:ekterina.ryabtseva.evp@yandex.ru" target="blank">
+<a href="mailto:ekterina.ryabtseva.evp@yandex.ru" target="_blank">
 	<img src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564396-mail_81524.png" alt="email" width="30px" height="30px">
 </a>
 
