@@ -20,9 +20,11 @@
 
 👩‍💻 На фрилансе с 2021г (начинала с верстки на конструкторе Tilda, в 2022г. обучилась на Frontend-разработчика)
 
-<a href="https://hh.ru/resume/4ab29fa6ff0bd185b00039ed1f587735434a72" target="_blank">
-	📄 Резюме
+<a href="https://hh.ru/resume/4ab29fa6ff0bd185b00039ed1f587735434a72" target="blank">
+	📄  Резюме
 </a>
+
+
 
 Написать мне: 
 
