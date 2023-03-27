@@ -36,7 +36,7 @@
 </a>
 
 
-
+<h2>Статистика</h2>
 	
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryabtseva-Ekaterina&theme=outrun) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryabtseva-Ekaterina&theme=outrun) 
